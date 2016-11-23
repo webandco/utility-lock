@@ -1,5 +1,5 @@
 <?php
-namespace TYPO3\Flow\Utility\Lock;
+namespace Neos\Utility\Lock;
 
 /*
  * This file is part of the Neos.Utility.Lock package.
@@ -12,7 +12,7 @@ namespace TYPO3\Flow\Utility\Lock;
  */
 
 use TYPO3\Flow\Annotations as Flow;
-use TYPO3\Flow\Utility;
+use Neos\Utility;
 
 /**
  * A flock based lock strategy.
