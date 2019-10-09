@@ -16,7 +16,7 @@ Contribute
 ----------
 
 .. note:: This repository was a **read-only subsplit** of a package that was part of the
-Flow framework until version 6.0 (learn more on `flow.neos.io <http://flow.neos.io/>`_).
+  Flow framework until version 6.0 (learn more on `flow.neos.io <http://flow.neos.io/>`_).
 
 If you want to contribute to the Flow framework in general, please have a look at
 https://github.com/neos/flow-development-collection - it is the repository used for
